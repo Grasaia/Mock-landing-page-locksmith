@@ -256,7 +256,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Fradon Lock Co. Mock Redesign by AI. All rights reserved.</p>
+          <p>&copy; Copyright {new Date().getFullYear()} Fradon Lock Company | All Rights Reserved | (315) 472-6988 | (800) 447-0591 | Providing residents and businesses with expert locksmith services since 1966!</p>
         </div>
       </div>
     </footer>
